@@ -24,9 +24,42 @@ Charlas Invitadas
 + [*Jairo Cugliari, presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/02_26_19_Jair0_Cugliari.pdf)
 
 
- 
+**2. A definir**
+    
+*Martes 12 de Marzo de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
+
+**3. A definir**
+    
+*Martes 19 de Marzo de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
+
+**4. A definir**
+    
+*Martes 26 de Marzo de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
+
+**5. A definir**
+    
+*Martes 2 de Abril de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
+
+**6. A definir**
+    
+*Martes 9 de Abril de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
 
 
 
+**7. A definir**
+    
+*Martes 16 de Abril de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
 
 
