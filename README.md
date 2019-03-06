@@ -21,7 +21,7 @@ Charlas Invitadas
     
 *Martes 26 de Febrero de 2019, 14:00 hs, IESTA.*
 
-+ [*Jairo Cugliari, presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03:26:19_Jair0_Cugliari.pdf)
++ [*Jairo Cugliari, presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/02_26_19_Jair0_Cugliari.pdf)
 
 
  
