@@ -24,11 +24,11 @@ Charlas Invitadas
 + [*Jairo Cugliari, presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/02_26_19_Jair0_Cugliari.pdf)
 
 
-**2. A definir**
+**2. La mejor combinación entre Profesores y Máquinas: un estudio comparativo entre enseñanza personalizada y aprendizaje mixto**
     
 *Martes 12 de Marzo de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Juan José Goyeneche*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03_12_19_JJ_Goyeneche.pdf) 
 
 **3. A definir**
     
