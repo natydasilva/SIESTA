@@ -28,7 +28,7 @@ Charlas Invitadas
     
 *Martes 12 de Marzo de 2019, 14:00 hs, IESTA.*
 
-+ [*Juan José Goyeneche*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03_12_19_JJ_Goyeneche.pdf) 
++ [*Juan José Goyeneche,presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03_12_19_JJ_Goyeneche.pdf) 
 
 **3. A definir**
     
@@ -46,7 +46,7 @@ Charlas Invitadas
     
 *Martes 2 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Leonardo Moreno*]() 
 
 **6. A definir**
     
