@@ -64,42 +64,42 @@ Charlas Invitadas
     
 *Martes 9 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Presentación*]() 
 
 
-**7. A definir**
+**7. Ana Coimbra: A definir**
     
 *Martes 23 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*Ana Coimbra*]() 
++ [*Presentación*]() 
 
 **8. A definir**
     
 *Martes 30 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Presentación*]() 
 
 **9. A definir**
     
 *Martes 7 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]()
++ [*Presentación*]()
 
 **10. A definir**
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Presentación*]() 
 
 **11. A definir**
     
 *Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Presentación*]() 
 
 **12. A definir**
     
 *Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Presentación*]() 
 
