@@ -60,7 +60,7 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**6.  Juan Kalemkerian: A definir**
+**6.  Juan Kalemkerian: Test de independencia basado en porcentajes de recurrencias**
     
 *Martes 9 de Abril de 2019, 14:00 hs, IESTA.*
 
