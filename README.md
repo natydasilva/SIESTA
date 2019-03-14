@@ -17,7 +17,7 @@ Charlas Invitadas
 
 # 2019
   
-**1. Jairo Cugliari: Imputation of Extreme Data using GAM with assesement by extremograms**
+**1. Jairo Cugliari: Imputación de datos extremos mediante GAM con evaluación mediante extremogramas**
     
 *Martes 26 de Febrero de 2019, 14:00 hs, IESTA.*
 
