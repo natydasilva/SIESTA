@@ -30,17 +30,17 @@ Charlas Invitadas
 
 + [*Juan José Goyeneche,presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03_12_19_JJ_Goyeneche.pdf) 
 
-**3. A definir**
+**3. Árboles de clasificación basados en proyecciones y sus posibles extensiones**
     
 *Martes 19 de Marzo de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Natalia da Silva*]() 
 
-**4. A definir**
+**4. ¿Estamos desacoplados con Argentina y Brasil? **
     
 *Martes 26 de Marzo de 2019, 14:00 hs, IESTA.*
 
-+ [*A definir*]() 
++ [*Silvia Rodriguez*]() 
 
 **5. A definir**
     
@@ -48,18 +48,46 @@ Charlas Invitadas
 
 + [*Leonardo Moreno*]() 
 
-**6. A definir**
+**6.  A definir**
     
 *Martes 9 de Abril de 2019, 14:00 hs, IESTA.*
 
 + [*A definir*]() 
 
 
-
 **7. A definir**
     
-*Martes 16 de Abril de 2019, 14:00 hs, IESTA.*
+*Martes 23 de Abril de 2019, 14:00 hs, IESTA.*
+
++ [*Ana Coimbra*]() 
+
+**8. A definir**
+    
+*Martes 30 de Abril de 2019, 14:00 hs, IESTA.*
 
 + [*A definir*]() 
 
+**9. A definir**
+    
+*Martes 7 de Mayo de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]()
+
+**10. A definir**
+    
+*Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
+
+**11. A definir**
+    
+*Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
+
+**12. A definir**
+    
+*Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
+
++ [*A definir*]() 
 
