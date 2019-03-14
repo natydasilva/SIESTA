@@ -60,14 +60,16 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**6.  A definir**
+**6.  Juan Kalemkerian: A definir**
     
 *Martes 9 de Abril de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy, Juan Kalemkerian*](https://exportcvuy.anii.org.uy/CvEstatico/?urlId=23b205dc9eac38e4698f3053f69b95f853433625e738daa1f3042e8cded394912497a43c8943f1105b4bd74f01919071b5c637029f8b305ec6a1aaec60405f07&formato=pdf&convocatoria=21) 
 
 + [*Presentación*]() 
 
 
-**7. Ana Coimbra: A definir**
+**7. Ana Coimbra: Procedimientos de campo no convencionales. La implementación en el caso de RDS**
     
 *Martes 23 de Abril de 2019, 14:00 hs, IESTA.*
 
