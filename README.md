@@ -17,36 +17,48 @@ Charlas Invitadas
 
 # 2019
   
-**1. Imputation of Extreme Data using GAM with assesement by extremograms**
+**1. Jairo Cugliari: Imputation of Extreme Data using GAM with assesement by extremograms**
     
 *Martes 26 de Febrero de 2019, 14:00 hs, IESTA.*
 
-+ [*Jairo Cugliari, presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/02_26_19_Jair0_Cugliari.pdf)
++ [Página personal, Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/es/)
+
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/02_26_19_Jair0_Cugliari.pdf)
 
 
-**2. La mejor combinación entre Profesores y Máquinas: un estudio comparativo entre enseñanza personalizada y aprendizaje mixto**
+
+**2. Juan José Goyeneche: La mejor combinación entre Profesores y Máquinas: un estudio comparativo entre enseñanza personalizada y aprendizaje mixto**
     
 *Martes 12 de Marzo de 2019, 14:00 hs, IESTA.*
 
-+ [*Juan José Goyeneche,presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03_12_19_JJ_Goyeneche.pdf) 
++ [CVuy, Juan José Goyeneche](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
 
-**3. Árboles de clasificación basados en proyecciones y sus posibles extensiones**
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03_12_19_JJ_Goyeneche.pdf) 
+
+**3. Natalia da Silva: Árboles de clasificación basados en proyecciones y sus posibles extensiones**
     
 *Martes 19 de Marzo de 2019, 14:00 hs, IESTA.*
 
-+ [*Natalia da Silva*]() 
++ [Página personal, Natalia da Silva](http://natydasilva.com)
 
-**4. ¿Estamos desacoplados con Argentina y Brasil? **
++ [*Presentación*]() 
+
+
+**4. Silvia Rodriguez: ¿Estamos desacoplados con Argentina y Brasil?**
     
 *Martes 26 de Marzo de 2019, 14:00 hs, IESTA.*
 
-+ [*Silvia Rodriguez*]() 
++ [Cvuy, Silvia Rodriguez](https://exportcvuy.anii.org.uy/pdf/?fbd33dd7feb658f7abc99bc60a6cc2cf4115949571b1fb78a0cc9a51bde3486fa4d459a28df98535bc55d02ebdab1d0a800b0e5bb8d30e09c76995d634c48710)
 
-**5. A definir**
++ [*Presentación*]() 
+
+**5. Leonardo Moreno: A definir**
     
 *Martes 2 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*Leonardo Moreno*]() 
++ [*CVuy, Leonardo Moreno*](http://www.iesta.edu.uy/wp-content/uploads/2017/04/CV_Leonardo-Moreno.pdf) 
+
++ [*Presentación*]() 
 
 **6.  A definir**
     
