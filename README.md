@@ -72,7 +72,7 @@ Charlas Invitadas
 **7. Ana Coimbra: Procedimientos de campo no convencionales. La implementación en el caso de RDS**
     
 *Martes 23 de Abril de 2019, 14:00 hs, IESTA.*
-
++ [*CVuy, Ana Coimbra*](https://exportcvuy.anii.org.uy/cv/?8021f36c72e0357f637d284b47938d2bf589af482ebd97bf05ee005533b01f978f80f274744021c854887779f8ac7f03c94fffcae91dce0a497e5ff82731c163)
 + [*Presentación*]() 
 
 **8. A definir**
