@@ -93,13 +93,13 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**10. Emilio Rey: A definir**
+**10. Antonio Rey: A definir**
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
 + [*Presentación*]() 
 
-**11. A definir**
+**11.Federico Molina: A definir**
     
 *Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
 
