@@ -103,11 +103,13 @@ Charlas Invitadas
     
 *Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
 
++ [*CVuy, Federico Molina*](https://exportcvuy.anii.org.uy/cv/?daa092097336d2da00945574590ee544)
 + [*Presentación*]() 
 
-**12. A definir**
+**12. Ignacio Alvarez-Castro: A definir**
     
 *Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
 
++ [*Página personal, Ignacio Alvarez-Castro*](https://exportcvuy.anii.org.uy/cv/?daa092097336d2da00945574590ee544)
 + [*Presentación*]() 
 
