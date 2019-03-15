@@ -72,22 +72,28 @@ Charlas Invitadas
 **7. Ana Coimbra: Procedimientos de campo no convencionales. La implementación en el caso de RDS**
     
 *Martes 23 de Abril de 2019, 14:00 hs, IESTA.*
+
 + [*CVuy, Ana Coimbra*](https://exportcvuy.anii.org.uy/cv/?8021f36c72e0357f637d284b47938d2bf589af482ebd97bf05ee005533b01f978f80f274744021c854887779f8ac7f03c94fffcae91dce0a497e5ff82731c163)
+
 + [*Presentación*]() 
 
-**8. A definir**
+**8. Ramón Alvarez: A definir**
     
 *Martes 30 de Abril de 2019, 14:00 hs, IESTA.*
 
++ [*CVuy, Ramón Alvarez*](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
+
 + [*Presentación*]() 
 
-**9. A definir**
+**9. Eugenia Riaño: A definir**
     
 *Martes 7 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*Presentación*]()
++ [*CVuy, Eugenia Riaño*](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
-**10. A definir**
++ [*Presentación*]() 
+
+**10. Emilio Rey: A definir**
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
