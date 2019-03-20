@@ -44,7 +44,7 @@ Charlas Invitadas
 + [*Presentación*](https://natydasilva.github.io/PPtreeExtupdate/#1) 
 
 
-**4. Silvia Rodriguez: ¿Estamos desacoplados con Argentina y Brasil?**
+**4. Silvia Rodriguez: Tres aproximaciones para explorar relaciones no lineales entre variables. ¿Estamos desacoplados con Argentina y Brasil?**
     
 *Martes 26 de Marzo de 2019, 14:00 hs, IESTA.*
 
