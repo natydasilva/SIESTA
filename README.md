@@ -10,7 +10,7 @@ SIESTA es un seminario semanal creado en Febrero de 2019 por el Instituto de Est
 
 El seminario se lleva adelante en el Instituto de Estadística (Eduardo Acevedo 1149) los Martes a las 14:00 horas en la sala de reuniones (2do piso).
 
-La organización del seminario estará a cargo en el 2019 por Natalia da Silva. Si tu investigación tiene un fuerte componente estadístico y te interesa presentar en nuestro seminario, enviá un correo a natalia@iesta.edu.uy.
+La organización del seminario está a cargo de Natalia da Silva. Si tu investigación tiene un fuerte componente estadístico o afines y te interesa presentar en nuestro seminario, enviá un correo a natalia@iesta.edu.uy.
 
 Charlas Invitadas
 ============
