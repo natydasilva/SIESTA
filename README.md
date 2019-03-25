@@ -52,7 +52,7 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**5. Leonardo Moreno: A definir**
+**5. Leonardo Moreno:  Estadística y proyecciones al azar**
     
 *Martes 2 de Abril de 2019, 14:00 hs, IESTA.*
 
