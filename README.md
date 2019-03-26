@@ -50,7 +50,7 @@ Charlas Invitadas
 
 + [Cvuy, Silvia Rodriguez](https://exportcvuy.anii.org.uy/pdf/?fbd33dd7feb658f7abc99bc60a6cc2cf4115949571b1fb78a0cc9a51bde3486fa4d459a28df98535bc55d02ebdab1d0a800b0e5bb8d30e09c76995d634c48710)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/03_26_19_Silvia_Rodriguez.pdf) 
 
 **5. Leonardo Moreno:  Estadística y proyecciones al azar**
     
