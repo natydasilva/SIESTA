@@ -77,7 +77,7 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**8. Graciela Sanroman: A definir**
+**8. Graciela Sanroman: (Continuous) GMM Quantile Regression**
     
 *Martes 30 de Abril de 2019, 14:00 hs, IESTA.*
 
@@ -120,11 +120,11 @@ Charlas Invitadas
 + [*CVuy, Alejandra Borges*](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
 + [*Presentación*]() 
 
-**14. Alejandra Marroig: A definir**
+**14. Bettina Lado: A definir**
     
 *Martes 11 de Junio de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Alejandra Marroig*](https://exportcvuy.anii.org.uy/cv/?493d4abd0c45d325504a74b8fd8381576a86a90b441012b3a970870662b5357a9a2e2c0a981f6000e2fb9764705b37f7996928b438b45957597c61745c232030)
++ [*CVuy, Bettina Lado*](https://exportcvuy.anii.org.uy/cv/?af3269700693479a0d4d7356e0e22ec6a50e41ffef532baa7612b6ad0f019106bb83c4a8c575821526a97179d7ed4c5e94d01f5ab598c8894fd64fe581df23ea)
 + [*Presentación*]() 
 
 **15. Ramón Alvarez: A definir**
@@ -141,3 +141,10 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
+
+**17. Alejandra Marroig: A definir**
+    
+*Martes 2 de Julio de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy, Alejandra Marroig*](https://exportcvuy.anii.org.uy/cv/?493d4abd0c45d325504a74b8fd8381576a86a90b441012b3a970870662b5357a9a2e2c0a981f6000e2fb9764705b37f7996928b438b45957597c61745c232030)
++ [*Presentación*]() 
