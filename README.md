@@ -77,11 +77,11 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**8. Ramón Alvarez: A definir**
+**8. Graciela Sanroman: A definir**
     
 *Martes 30 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Ramón Alvarez*](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
++ [*CVuy, Graciela Sanroman*](https://exportcvuy.anii.org.uy/cv/?9eeebd9d36ab148e8ba440ba33975d277a6c5992bda1e85e8da1b3a4166787cd21efe1b7b2aa78ed4d7f062e4c91cf537c5aebcf014b7cdde01cd4392ba48779)
 
 + [*Presentación*]() 
 
@@ -126,3 +126,18 @@ Charlas Invitadas
 
 + [*CVuy, Alejandra Marroig*](https://exportcvuy.anii.org.uy/cv/?493d4abd0c45d325504a74b8fd8381576a86a90b441012b3a970870662b5357a9a2e2c0a981f6000e2fb9764705b37f7996928b438b45957597c61745c232030)
 + [*Presentación*]() 
+
+**15. Ramón Alvarez: A definir**
+    
+*Martes 18 de Junio de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy, Ramón Alvarez*](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
++ [*Presentación*]() 
+
+
+**16. Hugo Carrasco: A definir**
+    
+*Martes 25 de Junio de 2019, 14:00 hs, IESTA.*
+
++ [*Presentación*]() 
+
