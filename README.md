@@ -140,7 +140,7 @@ Charlas Invitadas
     
 *Martes 25 de Junio de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Hugo Carrasco*]()
+
 + [*Presentación*]() 
 
 
