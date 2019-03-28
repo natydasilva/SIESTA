@@ -97,6 +97,7 @@ Charlas Invitadas
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
++ [*CVuy, Antonio Rey*]()
 + [*Presentación*]() 
 
 **11. Federico Molina: A definir**
@@ -139,6 +140,7 @@ Charlas Invitadas
     
 *Martes 25 de Junio de 2019, 14:00 hs, IESTA.*
 
++ [*CVuy, Hugo Carrasco*]()
 + [*Presentación*]() 
 
 
