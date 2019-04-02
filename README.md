@@ -58,7 +58,7 @@ Charlas Invitadas
 
 + [*CVuy, Leonardo Moreno*](http://www.iesta.edu.uy/wp-content/uploads/2017/04/CV_Leonardo-Moreno.pdf) 
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/04_02_19_Leo_Moreno.pdf) 
 
 **6.  Juan Kalemkerian: Test de independencia basado en porcentajes de recurrencias**
     
