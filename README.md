@@ -66,7 +66,7 @@ Charlas Invitadas
 
 + [*CVuy, Juan Kalemkerian*](https://exportcvuy.anii.org.uy/CvEstatico/?urlId=23b205dc9eac38e4698f3053f69b95f853433625e738daa1f3042e8cded394912497a43c8943f1105b4bd74f01919071b5c637029f8b305ec6a1aaec60405f07&formato=pdf&convocatoria=21) 
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/04_09_19_Juan_Kalemkerian.pdf) 
 
 
 **7. Ana Coimbra: Procedimientos de campo no convencionales. La implementación en el caso de RDS**
@@ -85,26 +85,29 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**9. Eugenia Riaño: A definir**
+**9. Gabriel Montes-Rojas: On the distribution of impulse-response functions in macroeconomic shocks**
     
 *Martes 7 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Eugenia Riaño*](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
++ [*CV, Gabriel Montes-Rojas *](https://github.com/natydasilva/SIESTA/blob/master/CV/CV_Montes-Rojas.pdf)
 
 + [*Presentación*]() 
 
-**10. Antonio Rey: A definir**
+
+
+**10. : Eugenia Riaño: A definir**
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Antonio Rey*]()
++  [*CVuy, Eugenia Riaño*](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
+
 + [*Presentación*]() 
 
-**11. Federico Molina: A definir**
+**11. Antonio Rey: A definir**
     
 *Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Federico Molina*](https://exportcvuy.anii.org.uy/cv/?daa092097336d2da00945574590ee544)
++ [*CVuy, Antonio  Rey*]()
 + [*Presentación*]() 
 
 **12. Ignacio Alvarez-Castro: A definir**
