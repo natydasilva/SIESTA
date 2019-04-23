@@ -75,7 +75,7 @@ Charlas Invitadas
 
 + [*CVuy, Ana Coimbra*](https://exportcvuy.anii.org.uy/cv/?8021f36c72e0357f637d284b47938d2bf589af482ebd97bf05ee005533b01f978f80f274744021c854887779f8ac7f03c94fffcae91dce0a497e5ff82731c163)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/04_23_19_Ana_Coimbra.pdf) 
 
 **8. Graciela Sanroman: (Continuous) GMM Quantile Regression**
     
@@ -94,8 +94,7 @@ Charlas Invitadas
 + [*Presentación*]() 
 
 
-
-**10. : Eugenia Riaño: A definir**
+**10. Eugenia Riaño: A definir**
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
