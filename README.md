@@ -83,7 +83,7 @@ Charlas Invitadas
 
 + [*CVuy, Graciela Sanroman*](https://exportcvuy.anii.org.uy/cv/?9eeebd9d36ab148e8ba440ba33975d277a6c5992bda1e85e8da1b3a4166787cd21efe1b7b2aa78ed4d7f062e4c91cf537c5aebcf014b7cdde01cd4392ba48779)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/04_30_19_Sanroman.pdf) 
 
 **9. Gabriel Montes-Rojas: On the distribution of impulse-response functions in macroeconomic shocks**
     
