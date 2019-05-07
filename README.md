@@ -91,7 +91,7 @@ Charlas Invitadas
 
 + [*CV, Gabriel Montes-Rojas *](https://github.com/natydasilva/SIESTA/blob/master/CV/CV_Montes-Rojas.pdf)
 
-+ [*Presentación*]() 
++ [*Presentación*]((https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_07_19_Gabriel_Montes-Rojas.pdf) ) 
 
 
 **10. Eugenia Riaño: A definir**
