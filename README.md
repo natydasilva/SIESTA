@@ -94,7 +94,7 @@ Charlas Invitadas
 + [*Presentación*]((https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_07_19_Gabriel_Montes-Rojas.pdf) ) 
 
 
-**10. Eugenia Riaño: Una aproximación a las técnicas de Filtrado Espacialr**
+**10. Eugenia Riaño: Una aproximación a las técnicas de Filtrado Espacial**
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
@@ -109,7 +109,7 @@ Charlas Invitadas
 + [*CVuy, Fernando Massa*](https://exportcvuy.anii.org.uy/pdf/?afcff3944801154b6fa5068cc5aee535c5ee352ce6260b58dbbd42344e26ddc9ac48c64d73e55a6d1b8f47aaac69292c758952353d03b19cff9bbeb8478f8c04)
 + [*Presentación*]() 
 
-**12. Juan José goyeneche : El margen de error del margen de error en encuestas electorales**
+**12. Juan José Goyeneche : El margen de error del margen de error en encuestas electorales**
     
 *Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
 
@@ -130,11 +130,13 @@ Charlas Invitadas
 + [*CVuy, Bettina Lado*](https://exportcvuy.anii.org.uy/cv/?af3269700693479a0d4d7356e0e22ec6a50e41ffef532baa7612b6ad0f019106bb83c4a8c575821526a97179d7ed4c5e94d01f5ab598c8894fd64fe581df23ea)
 + [*Presentación*]() 
 
-**15. Ramón Alvarez: A definir**
+**15. Ramón Alvarez y Gonzalo de Armas: Simulación basada en agentes: extensiones del modelo de Schelling**
     
 *Martes 18 de Junio de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy, Ramón Alvarez*](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
+
++ [*CVuy, Gonzalo de Armas*](https://exportcvuy.anii.org.uy/cv/?b6e212c883e7b27ad686e7632156d350f810cf6bb10117efc25d9da4802f5e47b389720f56b03a7fed3129181e2bb261d5949cd330f0b06176f18798b21a37cb)
 + [*Presentación*]() 
 
 
