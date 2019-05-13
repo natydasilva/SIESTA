@@ -94,7 +94,7 @@ Charlas Invitadas
 + [*Presentación*]((https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_07_19_Gabriel_Montes-Rojas.pdf) ) 
 
 
-**10. Eugenia Riaño: A definir**
+**10. Eugenia Riaño: Una aproximación a las técnicas de Filtrado Espacialr**
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
@@ -102,18 +102,18 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**11. Antonio Rey: A definir**
+**11. Fernando Massa: A definir**
     
 *Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Antonio  Rey*]()
++ [*CVuy, Fernando Massa*](https://exportcvuy.anii.org.uy/pdf/?afcff3944801154b6fa5068cc5aee535c5ee352ce6260b58dbbd42344e26ddc9ac48c64d73e55a6d1b8f47aaac69292c758952353d03b19cff9bbeb8478f8c04)
 + [*Presentación*]() 
 
-**12. Ignacio Alvarez-Castro: A definir**
+**12. Juan José goyeneche : El margen de error del margen de error en encuestas electorales**
     
 *Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*Página personal, Ignacio Alvarez-Castro*](https://exportcvuy.anii.org.uy/cv/?daa092097336d2da00945574590ee544)
++ [*Página personal, Juan José Goyeneche *](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pd)
 + [*Presentación*]() 
 
 **13. Alejandra Borges: A definir**
