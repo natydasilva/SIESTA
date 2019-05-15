@@ -110,18 +110,21 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**12. Juan José Goyeneche : El margen de error del margen de error en encuestas electorales**
+**12. Ignacio Alvarez-Castro: An Approximate Bayesian Computation of a Poisson Markov Random Field Model for Crash Data**
     
 *Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*Página personal, Juan José Goyeneche *](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pd)
++ [*Página personal, Ignacio Alvarez-Castro *](https://exportcvuy.anii.org.uy/cv/?f8ed8bf31a8041cecdc5153aa486b483b9dbc92eeec87a4f1008faea2f447fa1523b92127db5289ff92636af02a3d61fe89cfcc30ee8fbff78e0a87462d69388)
+
 + [*Presentación*]() 
 
-**13. Alejandra Borges: A definir**
-    
+
+**13.Juan José Goyeneche: El margen de error del margen de error en encuestas electorales**
+
 *Martes 4 de Junio de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Alejandra Borges*](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
++ [*Página personal, Juan José Goyeneche *](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
+
 + [*Presentación*]() 
 
 **14. Bettina Lado: A definir**
@@ -129,6 +132,7 @@ Charlas Invitadas
 *Martes 11 de Junio de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy, Bettina Lado*](https://exportcvuy.anii.org.uy/cv/?af3269700693479a0d4d7356e0e22ec6a50e41ffef532baa7612b6ad0f019106bb83c4a8c575821526a97179d7ed4c5e94d01f5ab598c8894fd64fe581df23ea)
+
 + [*Presentación*]() 
 
 **15. Ramón Alvarez y Gonzalo de Armas: Simulación basada en agentes: extensiones del modelo de Schelling**
@@ -149,9 +153,89 @@ Charlas Invitadas
 + [*Presentación*]() 
 
 
-**17. Alejandra Marroig: A definir**
-    
+**17. Alejandra Borges: A definir****
 *Martes 2 de Julio de 2019, 14:00 hs, IESTA.*
 
++ [*CVuy, Alejandra Borges*](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
+
++ [*Presentación*]() 
+
+
+
+**RECESO DE INVIERNO FCEA, DESDE 08/07/2019 al 17/08/2019**
+
+
+
+**18. Alejandra Marroig: A definir**
+    
+*Martes 20 de Agosto de 2019, 14:00 hs, IESTA.*
+
 + [*CVuy, Alejandra Marroig*](https://exportcvuy.anii.org.uy/cv/?493d4abd0c45d325504a74b8fd8381576a86a90b441012b3a970870662b5357a9a2e2c0a981f6000e2fb9764705b37f7996928b438b45957597c61745c232030)
+
++ [*Presentación*]() 
+
+**19.  A definir**
+    
+*Martes 27 de Agosto de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**19.  A definir**
+    
+*Martes 27 de Agosto de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+
+**20.  A definir**
+*Martes 3 de Septiembre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**21.  A definir**
+*Martes 10 de Septiembre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**22.  A definir**
+*Martes 17 de Septiembre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**23.  A definir**
+*Martes 24 de Septiembre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**24.  A definir**
+*Martes 1 de Octubre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**25.  A definir**
+*Martes 15 de Octubre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**26.  A definir**
+*Martes 22 de Octubre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
 + [*Presentación*]() 
