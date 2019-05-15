@@ -181,7 +181,7 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**19.  A definir**
+ <!-- **19.  A definir**
     
 *Martes 27 de Agosto de 2019, 14:00 hs, IESTA.*
 
@@ -245,4 +245,4 @@ Charlas Invitadas
 
 + [*CVuy*]()
 
-+ [*Presentación*]() 
++ [*Presentación*]() --> 
