@@ -91,7 +91,7 @@ Charlas Invitadas
 
 + [*CV, Gabriel Montes-Rojas *](https://github.com/natydasilva/SIESTA/blob/master/CV/CV_Montes-Rojas.pdf)
 
-+ [*Presentación*]((https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_07_19_Gabriel_Montes-Rojas.pdf) ) 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_07_19_Gabriel_Montes-Rojas.pdf) 
 
 
 **10. Eugenia Riaño: Una aproximación a las técnicas de Filtrado Espacial**
@@ -100,13 +100,14 @@ Charlas Invitadas
 
 +  [*CVuy, Eugenia Riaño*](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_14_19_Eugenia_Rianño.pdf)) 
 
-**11. Fernando Massa: A definir**
+**11. Eugenia Riaño: Modelos de interacción espacial con efectos aleatorios: una aplicación a los viajes por trabajo en Montevideo**
     
 *Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Fernando Massa*](https://exportcvuy.anii.org.uy/pdf/?afcff3944801154b6fa5068cc5aee535c5ee352ce6260b58dbbd42344e26ddc9ac48c64d73e55a6d1b8f47aaac69292c758952353d03b19cff9bbeb8478f8c04)
++  [*CVuy, Eugenia Riaño*](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
+
 + [*Presentación*]() 
 
 **12. Juan José Goyeneche : El margen de error del margen de error en encuestas electorales**
