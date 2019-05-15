@@ -23,6 +23,8 @@ Charlas Invitadas
 
 + [Página personal, Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/es/)
 
++ [CVuy, Jairo Cugliari](https://exportcvuy.anii.org.uy/cv/?41e561e023c8b358c9508ff67591bfa9a54ef0d52da3967733756ae17dd2bba39b12c163e1121ddabf59d03a3438e4e4d012746a7b40d7673af500c7f65c0fc2)
+
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/02_26_19_Jair0_Cugliari.pdf)
 
 
@@ -41,6 +43,8 @@ Charlas Invitadas
 
 + [Página personal, Natalia da Silva](http://natydasilva.com)
 
++ [CVuy, Natalia da Silva](https://exportcvuy.anii.org.uy/cv/?920277b8728c07251a3b8fbd984e40c16ee9e023542c4531f055f8792edb0d377cf99b05d4e324271a9779613cc0392d2a3ab4a048e4e52ed938161061abc5de)
+
 + [*Presentación*](https://natydasilva.github.io/PPtreeExtupdate/#1) 
 
 
@@ -56,7 +60,7 @@ Charlas Invitadas
     
 *Martes 2 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Leonardo Moreno*](http://www.iesta.edu.uy/wp-content/uploads/2017/04/CV_Leonardo-Moreno.pdf) 
++ [CVuy, Leonardo Moreno](http://www.iesta.edu.uy/wp-content/uploads/2017/04/CV_Leonardo-Moreno.pdf) 
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/04_02_19_Leonardo_Moreno.pdf) 
 
@@ -73,7 +77,7 @@ Charlas Invitadas
     
 *Martes 23 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Ana Coimbra*](https://exportcvuy.anii.org.uy/cv/?8021f36c72e0357f637d284b47938d2bf589af482ebd97bf05ee005533b01f978f80f274744021c854887779f8ac7f03c94fffcae91dce0a497e5ff82731c163)
++ [CVuy, Ana Coimbra](https://exportcvuy.anii.org.uy/cv/?8021f36c72e0357f637d284b47938d2bf589af482ebd97bf05ee005533b01f978f80f274744021c854887779f8ac7f03c94fffcae91dce0a497e5ff82731c163)
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/04_23_19_Ana_Coimbra.pdf) 
 
@@ -81,7 +85,7 @@ Charlas Invitadas
     
 *Martes 30 de Abril de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Graciela Sanroman*](https://exportcvuy.anii.org.uy/cv/?9eeebd9d36ab148e8ba440ba33975d277a6c5992bda1e85e8da1b3a4166787cd21efe1b7b2aa78ed4d7f062e4c91cf537c5aebcf014b7cdde01cd4392ba48779)
++ [CVuy, Graciela Sanroman](https://exportcvuy.anii.org.uy/cv/?9eeebd9d36ab148e8ba440ba33975d277a6c5992bda1e85e8da1b3a4166787cd21efe1b7b2aa78ed4d7f062e4c91cf537c5aebcf014b7cdde01cd4392ba48779)
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/04_30_19_Sanroman.pdf) 
 
@@ -89,7 +93,7 @@ Charlas Invitadas
     
 *Martes 7 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*CV, Gabriel Montes-Rojas *](https://github.com/natydasilva/SIESTA/blob/master/CV/CV_Montes-Rojas.pdf)
++ [CV, Gabriel Montes-Rojas ](https://github.com/natydasilva/SIESTA/blob/master/CV/CV_Montes-Rojas.pdf)
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_07_19_Gabriel_Montes-Rojas.pdf) 
 
@@ -98,7 +102,7 @@ Charlas Invitadas
     
 *Martes 14 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+  [*CVuy, Eugenia Riaño*](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
++  [CVuy, Eugenia Riaño](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_14_19_Eugenia_Rianño.pdf)) 
 
@@ -106,7 +110,7 @@ Charlas Invitadas
     
 *Martes 21 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+  [*CVuy, Eugenia Riaño*](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
++ [CVuy, Eugenia Riaño](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
 + [*Presentación*]() 
 
@@ -114,7 +118,9 @@ Charlas Invitadas
     
 *Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*Página personal, Ignacio Alvarez-Castro *](https://exportcvuy.anii.org.uy/cv/?f8ed8bf31a8041cecdc5153aa486b483b9dbc92eeec87a4f1008faea2f447fa1523b92127db5289ff92636af02a3d61fe89cfcc30ee8fbff78e0a87462d69388)
++ [*Página personal, Ignacio Alvarez-Castro *](nachalca.netlify.com)
+
++ [*Cvuy, Ignacio Alvarez-Castro *](https://exportcvuy.anii.org.uy/cv/?f8ed8bf31a8041cecdc5153aa486b483b9dbc92eeec87a4f1008faea2f447fa1523b92127db5289ff92636af02a3d61fe89cfcc30ee8fbff78e0a87462d69388m)
 
 + [*Presentación*]() 
 
@@ -123,7 +129,7 @@ Charlas Invitadas
 
 *Martes 4 de Junio de 2019, 14:00 hs, IESTA.*
 
-+ [*Página personal, Juan José Goyeneche *](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
++ [*CVuy, Juan José Goyeneche *](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
 
 + [*Presentación*]() 
 
@@ -142,6 +148,7 @@ Charlas Invitadas
 + [*CVuy, Ramón Alvarez*](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
 
 + [*CVuy, Gonzalo de Armas*](https://exportcvuy.anii.org.uy/cv/?b6e212c883e7b27ad686e7632156d350f810cf6bb10117efc25d9da4802f5e47b389720f56b03a7fed3129181e2bb261d5949cd330f0b06176f18798b21a37cb)
+
 + [*Presentación*]() 
 
 
