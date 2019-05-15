@@ -118,9 +118,9 @@ Charlas Invitadas
     
 *Martes 28 de Mayo de 2019, 14:00 hs, IESTA.*
 
-+ [*Página personal, Ignacio Alvarez-Castro *](nachalca.netlify.com)
++ [Página personal, Ignacio Alvarez-Castro](nachalca.netlify.com)
 
-+ [*Cvuy, Ignacio Alvarez-Castro *](https://exportcvuy.anii.org.uy/cv/?f8ed8bf31a8041cecdc5153aa486b483b9dbc92eeec87a4f1008faea2f447fa1523b92127db5289ff92636af02a3d61fe89cfcc30ee8fbff78e0a87462d69388m)
++ [Cvuy, Ignacio Alvarez-Castro ](https://exportcvuy.anii.org.uy/cv/?f8ed8bf31a8041cecdc5153aa486b483b9dbc92eeec87a4f1008faea2f447fa1523b92127db5289ff92636af02a3d61fe89cfcc30ee8fbff78e0a87462d69388m)
 
 + [*Presentación*]() 
 
@@ -129,7 +129,7 @@ Charlas Invitadas
 
 *Martes 4 de Junio de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Juan José Goyeneche *](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
++ [CVuy, Juan José Goyeneche ](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
 
 + [*Presentación*]() 
 
@@ -160,10 +160,11 @@ Charlas Invitadas
 + [*Presentación*]() 
 
 
-**17. Alejandra Borges: A definir****
+**17. Alejandra Borges: A definir**
+
 *Martes 2 de Julio de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Alejandra Borges*](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
++ [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
 
 + [*Presentación*]() 
 
