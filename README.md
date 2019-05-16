@@ -137,7 +137,7 @@ Charlas Invitadas
     
 *Martes 11 de Junio de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Bettina Lado*](https://exportcvuy.anii.org.uy/cv/?af3269700693479a0d4d7356e0e22ec6a50e41ffef532baa7612b6ad0f019106bb83c4a8c575821526a97179d7ed4c5e94d01f5ab598c8894fd64fe581df23ea)
++ [CVuy, Bettina Lado](https://exportcvuy.anii.org.uy/cv/?af3269700693479a0d4d7356e0e22ec6a50e41ffef532baa7612b6ad0f019106bb83c4a8c575821526a97179d7ed4c5e94d01f5ab598c8894fd64fe581df23ea)
 
 + [*Presentación*]() 
 
@@ -145,9 +145,9 @@ Charlas Invitadas
     
 *Martes 18 de Junio de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Ramón Alvarez*](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
++ [CVuy, Ramón Alvarez](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
 
-+ [*CVuy, Gonzalo de Armas*](https://exportcvuy.anii.org.uy/cv/?b6e212c883e7b27ad686e7632156d350f810cf6bb10117efc25d9da4802f5e47b389720f56b03a7fed3129181e2bb261d5949cd330f0b06176f18798b21a37cb)
++ [CVuy, Gonzalo de Armas](https://exportcvuy.anii.org.uy/cv/?b6e212c883e7b27ad686e7632156d350f810cf6bb10117efc25d9da4802f5e47b389720f56b03a7fed3129181e2bb261d5949cd330f0b06176f18798b21a37cb)
 
 + [*Presentación*]() 
 
@@ -178,25 +178,19 @@ Charlas Invitadas
     
 *Martes 20 de Agosto de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy, Alejandra Marroig*](https://exportcvuy.anii.org.uy/cv/?493d4abd0c45d325504a74b8fd8381576a86a90b441012b3a970870662b5357a9a2e2c0a981f6000e2fb9764705b37f7996928b438b45957597c61745c232030)
++ [CVuy, Alejandra Marroig](https://exportcvuy.anii.org.uy/cv/?493d4abd0c45d325504a74b8fd8381576a86a90b441012b3a970870662b5357a9a2e2c0a981f6000e2fb9764705b37f7996928b438b45957597c61745c232030)
 
 + [*Presentación*]() 
 
- <!-- **19.  A definir**
-    
+**19. Mathias Bourel: A definir**
+     
 *Martes 27 de Agosto de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
++ [CVuy, Mathias Bourel](https://exportcvuy.anii.org.uy/cv/?90727ce5d69763df893cf35eb1a77530acd0bf809be98a78a7d844948bd29acd7b6d15684469c6b2ed3575cc657e69187e42dc010f928025e20e3e3036fc3b6b)
 
 + [*Presentación*]() 
 
-**19.  A definir**
-    
-*Martes 27 de Agosto de 2019, 14:00 hs, IESTA.*
-
-+ [*CVuy*]()
-
-+ [*Presentación*]() 
+ <!--
 
 
 **20.  A definir**
