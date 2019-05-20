@@ -133,7 +133,7 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**14. Bettina Lado: A definir**
+**14. Bettina Lado: Ejemplos del uso de los Modelos Mixtos en Mejoramiento Genético Vegetal**
     
 *Martes 11 de Junio de 2019, 14:00 hs, IESTA.*
 
