@@ -104,7 +104,7 @@ Charlas Invitadas
 
 +  [CVuy, Eugenia Riaño](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
-+ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_14_19_Eugenia_Rianño.pdf)) 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_14_19_Eugenia_Riaño.pdf)) 
 
 **11. Eugenia Riaño: Modelos de interacción espacial con efectos aleatorios: una aplicación a los viajes por trabajo en Montevideo**
     
@@ -112,7 +112,7 @@ Charlas Invitadas
 
 + [CVuy, Eugenia Riaño](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_21_19_Eugenia_Riaño.pdf)) 
 
 **12. Ignacio Alvarez-Castro: An Approximate Bayesian Computation of a Poisson Markov Random Field Model for Crash Data**
     
