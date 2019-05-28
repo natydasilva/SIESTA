@@ -122,7 +122,7 @@ Charlas Invitadas
 
 + [Cvuy, Ignacio Alvarez-Castro ](https://exportcvuy.anii.org.uy/cv/?f8ed8bf31a8041cecdc5153aa486b483b9dbc92eeec87a4f1008faea2f447fa1523b92127db5289ff92636af02a3d61fe89cfcc30ee8fbff78e0a87462d69388m)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_28_19_Ignacio_Alvarez-Castro.pdf) 
 
 
 **13.Juan José Goyeneche: El margen de error del margen de error en encuestas electorales**
