@@ -131,7 +131,7 @@ Charlas Invitadas
 
 + [CVuy, Juan José Goyeneche ](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_04_19_JJ_Goyeneche.pdf) 
 
 **14. Bettina Lado: Ejemplos del uso de los Modelos Mixtos en Mejoramiento Genético Vegetal**
     
