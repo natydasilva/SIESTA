@@ -139,7 +139,7 @@ Charlas Invitadas
 
 + [CVuy, Bettina Lado](https://exportcvuy.anii.org.uy/cv/?af3269700693479a0d4d7356e0e22ec6a50e41ffef532baa7612b6ad0f019106bb83c4a8c575821526a97179d7ed4c5e94d01f5ab598c8894fd64fe581df23ea)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_11_19_Betina_Lado.pptx) 
 
 **15. Ramón Alvarez y Gonzalo de Armas: Simulación basada en agentes: extensiones del modelo de Schelling**
     
