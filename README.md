@@ -149,7 +149,9 @@ Charlas Invitadas
 
 + [CVuy, Gonzalo De-Armas](https://exportcvuy.anii.org.uy/cv/?b6e212c883e7b27ad686e7632156d350f810cf6bb10117efc25d9da4802f5e47b389720f56b03a7fed3129181e2bb261d5949cd330f0b06176f18798b21a37cb)
 
-+ [*Presentación*]() 
++ [*Presentación, Ramón Alvarez*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_18_19_Ramon_Alvarez.pdf) 
+
++ [*Presentación, Gonzalo De-Armas*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_18_19_De_Armas.pdf) 
 
 
 **16. Hugo Carrasco: A definir**
