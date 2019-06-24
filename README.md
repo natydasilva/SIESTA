@@ -147,26 +147,18 @@ Charlas Invitadas
 
 + [CVuy, Ramón Alvarez](https://exportcvuy.anii.org.uy/cv/?f59bca8752a8e6ce2bc21fa794e23f5b611155260c77628f614e67c5376e69581e04aa1b2cf92c51f8c465096c185ca4852be7d573ca9dadd28f02808a967b5d)
 
-+ [CVuy, Gonzalo De-Armas](https://exportcvuy.anii.org.uy/cv/?b6e212c883e7b27ad686e7632156d350f810cf6bb10117efc25d9da4802f5e47b389720f56b03a7fed3129181e2bb261d5949cd330f0b06176f18798b21a37cb)
-
 + [*Presentación, Ramón Alvarez*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_18_19_Ramon_Alvarez.pdf) 
 
-+ [*Presentación, Gonzalo De-Armas*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_18_19_De_Armas.pdf) 
++ [CVuy, Gonzalo De-Armas](https://exportcvuy.anii.org.uy/cv/?b6e212c883e7b27ad686e7632156d350f810cf6bb10117efc25d9da4802f5e47b389720f56b03a7fed3129181e2bb261d5949cd330f0b06176f18798b21a37cb)
 
++ [*Presentación, Gonzalo De-Armas*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_18_19_De_Armas.pdf)
 
-**16. Hugo Carrasco: A definir**
-    
-*Martes 25 de Junio de 2019, 14:00 hs, IESTA.*
-
-
-+ [*Presentación*]() 
-
-
-**17. Alejandra Borges: A definir**
+ 
+**17. Manuel Hernandez y Mario Sierra: Defensa final de grado**
 
 *Martes 2 de Julio de 2019, 14:00 hs, IESTA.*
 
-+ [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
++ [CVuy]()
 
 + [*Presentación*]() 
 
@@ -192,6 +184,22 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
+
+**20. Hugo Carrasco: A definir**
+    
+*Martes 3 de Septiembre de 2019, 14:00 hs, IESTA.*
+
+
++ [*Presentación*]() 
+
+ 
+**21. Alejandra Borges: A definir**
+
+*Martes 10 de Septiembre de 2019, 14:00 hs, IESTA.*
+
++ [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
+
++ [*Presentación*]() 
  <!--
 
 
