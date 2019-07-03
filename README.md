@@ -154,13 +154,12 @@ Charlas Invitadas
 + [*Presentación, Gonzalo De-Armas*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_18_19_De_Armas.pdf)
 
  
-**17. Manuel Hernandez y Mario Sierra: Defensa final de grado**
+**17. Manuel Hernandez y Mario Sierra: Defensa final de grado Estimación de densidades mediante modelos de mezcla controlados por el proceso de Dirichlet**
 
 *Martes 2 de Julio de 2019, 14:00 hs, IESTA.*
 
-+ [CVuy]()
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/07_02_19_Hernandez_Sierra.pdf) 
 
 
 
