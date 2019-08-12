@@ -167,7 +167,7 @@ Charlas Invitadas
 
 
 
-**18. Alejandra Marroig: A definir**
+**18. Alejandra Marroig: Transición hacia la dependencia en la vejez**
     
 *Martes 20 de Agosto de 2019, 14:00 hs, IESTA.*
 
