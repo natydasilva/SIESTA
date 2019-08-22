@@ -184,7 +184,7 @@ Charlas Invitadas
 + [*Presentación*]() 
 
 
-**20. Hugo Carrasco: A definir**
+**20. Hugo Carrasco: Modelo de Segregación de Schelling con Costos de Mudanzas**
     
 *Martes 3 de Septiembre de 2019, 14:00 hs, IESTA.*
 
