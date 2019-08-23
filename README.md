@@ -192,59 +192,41 @@ Charlas Invitadas
 + [*Presentación*]() 
 
  
-**21. Alejandra Borges: A definir**
+**21. Federico Molina: Evaluación y monitoreo de plataformas educativas**
 
 *Martes 10 de Septiembre de 2019, 14:00 hs, IESTA.*
 
-+ [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
++ [CVuy, Federico Molina](https://exportcvuy.anii.org.uy/cv/?daa092097336d2da00945574590ee544)
 
-+ [*Presentación*]() 
- <!--
-
-
-**20.  A definir**
-*Martes 3 de Septiembre de 2019, 14:00 hs, IESTA.*
-
-+ [*CVuy*]()
 
 + [*Presentación*]() 
 
-**21.  A definir**
-*Martes 10 de Septiembre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
-
-+ [*Presentación*]() 
-
-**22.  A definir**
+**22. Laura Aspirot: A definir**
 *Martes 17 de Septiembre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*]()
 
++ [*Presentación*]()
+
+**23.  Alejandra Borges**
+*Martes  1 de Octubre de 2019, 14:00 hs, IESTA.*
+
+ + [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
+
+
 + [*Presentación*]() 
+<!--
 
-**23.  A definir**
-*Martes 24 de Septiembre de 2019, 14:00 hs, IESTA.*
-
-+ [*CVuy*]()
-
-+ [*Presentación*]() 
 
 **24.  A definir**
-*Martes 1 de Octubre de 2019, 14:00 hs, IESTA.*
-
-+ [*CVuy*]()
-
-+ [*Presentación*]() 
-
-**25.  A definir**
 *Martes 15 de Octubre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*]()
 
 + [*Presentación*]() 
 
-**26.  A definir**
+**25.  A definir**
 *Martes 22 de Octubre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*]()
