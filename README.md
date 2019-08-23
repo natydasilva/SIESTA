@@ -203,6 +203,7 @@ Charlas Invitadas
 
 
 **22. Laura Aspirot: A definir**
+
 *Martes 17 de Septiembre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*]()
@@ -210,6 +211,7 @@ Charlas Invitadas
 + [*Presentación*]()
 
 **23.  Alejandra Borges**
+
 *Martes  1 de Octubre de 2019, 14:00 hs, IESTA.*
 
  + [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
