@@ -181,7 +181,7 @@ Charlas Invitadas
 
 + [CVuy, Mathias Bourel](https://exportcvuy.anii.org.uy/cv/?90727ce5d69763df893cf35eb1a77530acd0bf809be98a78a7d844948bd29acd7b6d15684469c6b2ed3575cc657e69187e42dc010f928025e20e3e3036fc3b6b)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/08_27_19_Mathias_Bourel.pdf) 
 
 
 **20. Hugo Carrasco: Modelo de Segregación de Schelling con Costos de Mudanzas**
