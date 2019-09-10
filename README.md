@@ -173,7 +173,7 @@ Charlas Invitadas
 
 + [CVuy, Alejandra Marroig](https://exportcvuy.anii.org.uy/cv/?493d4abd0c45d325504a74b8fd8381576a86a90b441012b3a970870662b5357a9a2e2c0a981f6000e2fb9764705b37f7996928b438b45957597c61745c232030)
 
-+ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/08_20_19_Alejandra_Marroig.pdf) 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/08_20_2019_Alejandra_Marroig.pdf) 
 
 **19. Mathias Bourel: Comparación de particiones a través del Matching Error**
      
