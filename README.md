@@ -190,7 +190,7 @@ Charlas Invitadas
 *Martes 3 de Septiembre de 2019, 14:00 hs, IESTA.*
 
 
-+ [*Presentación*]((https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/09_03_19_Hugo_Carrasco.pdf) 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/09_03_19_Hugo_Carrasco.pdf) 
 
  
 **21. Federico Molina: Evaluación y monitoreo de plataformas educativas**
@@ -200,7 +200,7 @@ Charlas Invitadas
 + [CVuy, Federico Molina](https://exportcvuy.anii.org.uy/cv/?daa092097336d2da00945574590ee544)
 
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/09_10_19_Federico_Molina.pdf) 
 
 
 **22. Laura Aspirot: A definir**
