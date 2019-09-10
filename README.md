@@ -104,7 +104,7 @@ Charlas Invitadas
 
 +  [CVuy, Eugenia Riaño](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
-+ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_14_19_Eugenia_Riaño.pdf)) 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_14_19_Eugenia_Riaño.pdf)
 
 **11. Eugenia Riaño: Modelos de interacción espacial con efectos aleatorios: una aplicación a los viajes por trabajo en Montevideo**
     
@@ -112,7 +112,7 @@ Charlas Invitadas
 
 + [CVuy, Eugenia Riaño](https://exportcvuy.anii.org.uy/cv/?24d9b45080088429db1dcc05c3a1fe0bde88a3442d987c8945d147a60191b3428c2af33c1dac11d3c4af958893384f2a5b8b26b94b3cf6a8d5de919600e03cb8)
 
-+ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_21_19_Eugenia_Riaño.pdf)) 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/05_21_19_Eugenia_Riaño.pdf) 
 
 **12. Ignacio Alvarez-Castro: An Approximate Bayesian Computation of a Poisson Markov Random Field Model for Crash Data**
     
@@ -139,7 +139,7 @@ Charlas Invitadas
 
 + [CVuy, Bettina Lado](https://exportcvuy.anii.org.uy/cv/?af3269700693479a0d4d7356e0e22ec6a50e41ffef532baa7612b6ad0f019106bb83c4a8c575821526a97179d7ed4c5e94d01f5ab598c8894fd64fe581df23ea)
 
-+ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_11_19_Betina_Lado.pptx) 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/06_11_19_Betina_Lado.pdf) 
 
 **15. Ramón Alvarez y Gonzalo de Armas: Simulación basada en agentes: extensiones del modelo de Schelling**
     
@@ -189,7 +189,7 @@ Charlas Invitadas
 *Martes 3 de Septiembre de 2019, 14:00 hs, IESTA.*
 
 
-+ [*Presentación*]((https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/09_03_19_Hugo_Carrasco.pdf) 
++[*Presentación*]((https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/09_03_19_Hugo_Carrasco.pdf) 
 
  
 **21. Federico Molina: Evaluación y monitoreo de plataformas educativas**
