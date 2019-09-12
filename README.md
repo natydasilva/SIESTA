@@ -203,7 +203,7 @@ Charlas Invitadas
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/09_10_19_Federico_Molina.pdf) 
 
 
-**22. Laura Aspirot: A definir**
+**22. Laura Aspirot: Límites Fluidos**
 
 *Martes 17 de Septiembre de 2019, 14:00 hs, IESTA.*
 
