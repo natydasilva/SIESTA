@@ -209,28 +209,38 @@ Charlas Invitadas
 
 + [*CVuy*]()
 
-+ [*Presentación*]()
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/17_10_19_Laura_Aspirot.pdf)
 
-**23.  Alejandra Borges: A definir** 
+
+**23.Alejandra Borges: Modelos lineales mixtos en experimentación agronómica: ventajas y limitaciones en el uso de modelos espaciales en diseños experimentales** 
+
 *Martes  1 de Octubre de 2019, 14:00 hs, IESTA.*
 
  + [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
 
 
 + [*Presentación*]() 
-<!--
 
 
-**24.  A definir**
+
+**24. Andres Sosa:  A definir**
+*Martes 8 de Octubre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*](https://exportcvuy.anii.org.uy/CvEstatico/?urlId=1b4f4f3fcba024239e1815e26f0f2296c1224ec2dd9162718c708a0c0947a54e623a6675f10cb0dfc5fb5b96a35948eefa91b0d0b0d43bcc6dc7230c896103ef&formato=pdf&convocatoria=21)
+
++ [*Presentación*]() 
+
+**25. Gabriel Illanes: Un test de hipótesis sobre ancestría**
 *Martes 15 de Octubre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*]()
 
 + [*Presentación*]() 
 
-**25.  A definir**
+
+**26. Gerardo Martinez: A definir**
 *Martes 22 de Octubre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
++ [*CVuy*](https://exportcvuy.anii.org.uy/cv/?b6e5028b8963a2d0de8eca548b3a597523a561507eb15a09368306afc003b1ae390790ba18cf1ab7c9fb3a752e062d7bb35da40f5267a44da3f3698763b47e7b)
 
-+ [*Presentación*]() --> 
++ [*Presentación*]() 
