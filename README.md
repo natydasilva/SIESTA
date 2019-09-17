@@ -224,6 +224,7 @@ Charlas Invitadas
 
 
 **24. Andres Sosa:  A definir**
+
 *Martes 8 de Octubre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*](https://exportcvuy.anii.org.uy/CvEstatico/?urlId=1b4f4f3fcba024239e1815e26f0f2296c1224ec2dd9162718c708a0c0947a54e623a6675f10cb0dfc5fb5b96a35948eefa91b0d0b0d43bcc6dc7230c896103ef&formato=pdf&convocatoria=21)
@@ -231,6 +232,7 @@ Charlas Invitadas
 + [*Presentación*]() 
 
 **25. Gabriel Illanes: Un test de hipótesis sobre ancestría**
+
 *Martes 15 de Octubre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*]()
@@ -239,6 +241,7 @@ Charlas Invitadas
 
 
 **26. Gerardo Martinez: A definir**
+
 *Martes 22 de Octubre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*](https://exportcvuy.anii.org.uy/cv/?b6e5028b8963a2d0de8eca548b3a597523a561507eb15a09368306afc003b1ae390790ba18cf1ab7c9fb3a752e062d7bb35da40f5267a44da3f3698763b47e7b)
