@@ -223,7 +223,7 @@ Charlas Invitadas
 
 
 
-**24. Andres Sosa:  A definir**
+**24. Andres Sosa:  Desde el enfoque estático al enfoque dinámico en el análisis de las curvas de rendimiento en la deuda soberana. Caso de estudio: Uruguay**
 
 *Martes 8 de Octubre de 2019, 14:00 hs, IESTA.*
 
