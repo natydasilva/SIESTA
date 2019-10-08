@@ -212,14 +212,14 @@ Charlas Invitadas
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/17_10_19_Laura_Aspirot.pdf)
 
 
-**23.Alejandra Borges: Modelos lineales mixtos en experimentación agronómica: ventajas y limitaciones en el uso de modelos espaciales en diseños experimentales** 
+**23. Alejandra Borges: Modelos lineales mixtos en experimentación agronómica: ventajas y limitaciones en el uso de modelos espaciales en diseños experimentales** 
 
 *Martes  1 de Octubre de 2019, 14:00 hs, IESTA.*
 
  + [CVuy, Alejandra Borges](https://exportcvuy.anii.org.uy/cv/?3388e291681b4ecbaae1820c0f38cc5785e029fa12f2d40cf34ed2449dd658fd4501e77fe59607800b270f1cc2558a8f9651d1249604a0439119d2b6e864d8b4)
 
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_01_19_Ale_Borges.pdf) 
 
 
 
@@ -240,9 +240,17 @@ Charlas Invitadas
 + [*Presentación*]() 
 
 
-**26. Gerardo Martinez: A definir**
+**26. Gabriela Mathieu y Richard Detomasi: A definir**
 
 *Martes 22 de Octubre de 2019, 14:00 hs, IESTA.*
+
++ [*CVuy*]()
+
++ [*Presentación*]() 
+
+**27. Gerardo Martinez: A definir**
+
+*Martes 29 de Octubre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*](https://exportcvuy.anii.org.uy/cv/?b6e5028b8963a2d0de8eca548b3a597523a561507eb15a09368306afc003b1ae390790ba18cf1ab7c9fb3a752e062d7bb35da40f5267a44da3f3698763b47e7b)
 
