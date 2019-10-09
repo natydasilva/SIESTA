@@ -229,7 +229,7 @@ Charlas Invitadas
 
 + [*CVuy*](https://exportcvuy.anii.org.uy/CvEstatico/?urlId=1b4f4f3fcba024239e1815e26f0f2296c1224ec2dd9162718c708a0c0947a54e623a6675f10cb0dfc5fb5b96a35948eefa91b0d0b0d43bcc6dc7230c896103ef&formato=pdf&convocatoria=21)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_09_19_Andres_sosa.pdf) 
 
 **25. Gabriel Illanes: Un test de hipótesis sobre ancestría**
 
