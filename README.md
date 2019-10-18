@@ -235,9 +235,9 @@ Charlas Invitadas
 
 *Martes 15 de Octubre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_15_19_Gabriel_Illanes.pdf)
++ [*CVuy*]()
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_15_19_Gabriel_Illanes.pdf) 
 
 
 **26. Gabriela Mathieu y Richard Detomasi: rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando R**
