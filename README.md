@@ -207,8 +207,6 @@ Charlas Invitadas
 
 *Martes 17 de Septiembre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
-
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/17_10_19_Laura_Aspirot.pdf)
 
 
@@ -235,7 +233,6 @@ Charlas Invitadas
 
 *Martes 15 de Octubre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_15_19_Gabriel_Illanes.pdf) 
 
@@ -244,7 +241,6 @@ Charlas Invitadas
 
 *Martes 22 de Octubre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_22_19_Mathieu_Detomasi.pdf) 
 
@@ -256,7 +252,7 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**28. A definir: A definir**
+**28.Cecilia Bisogno: Análisis de Cluster, plan Ceibal**
 
 *Martes 5 de Noviembre de 2019, 14:00 hs, IESTA.*
 
@@ -269,5 +265,12 @@ Charlas Invitadas
 *Martes 12 de Noviembre de 2019, 14:00 hs, IESTA.*
 
 + [*CVuy*]()
+
++ [*Presentación*]() 
+
+**29. Guillermina Costabel:Defensa final de grado: Análisis de supervivencia de las tablet del Plan Ceibal 2014-2015**
+
+*Martes 19 de Noviembre de 2019, 14:00 hs, IESTA.*
+
 
 + [*Presentación*]() 
