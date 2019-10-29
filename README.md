@@ -268,7 +268,7 @@ Charlas Invitadas
 
 + [*Presentación*]() 
 
-**29. Guillermina Costabel:Defensa final de grado: Análisis de supervivencia de las tablet del Plan Ceibal 2014-2015**
+**30. Guillermina Costabel:Defensa final de grado: Análisis de supervivencia de las tablet del Plan Ceibal 2014-2015**
 
 *Martes 19 de Noviembre de 2019, 14:00 hs, IESTA.*
 
