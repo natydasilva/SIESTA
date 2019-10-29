@@ -248,7 +248,7 @@ Charlas Invitadas
 
 + [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_22_19_Mathieu_Detomasi.pdf) 
 
-**27. Gerardo Martinez: A definir**
+**27. Gerardo Martinez: Procesos markovianos y su aplicación al modelo de Wright-Fisher**
 
 *Martes 29 de Octubre de 2019, 14:00 hs, IESTA.*
 
