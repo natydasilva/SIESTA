@@ -250,17 +250,17 @@ Charlas Invitadas
 
 + [*CVuy*](https://exportcvuy.anii.org.uy/cv/?b6e5028b8963a2d0de8eca548b3a597523a561507eb15a09368306afc003b1ae390790ba18cf1ab7c9fb3a752e062d7bb35da40f5267a44da3f3698763b47e7b)
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/10_29_19_Gerardo_Martinez.pdf) 
 
-**28.Cecilia Bisogno: Análisis de Cluster, plan Ceibal**
+**28.Juan José Goyeneche: Proyecciones de escrutinio, ¿qué precisión tienen?**
 
 *Martes 5 de Noviembre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
++ [*CVuy*](http://www.iesta.edu.uy/wp-content/uploads/2017/04/jjgoye-cvuy.pdf)
 
 + [*Presentación*]() 
 
-**29. Hector Cotelo: A definir**
+**29. Hector Cotelo: Datascience para el análisis de la campaña electoral**
 
 *Martes 12 de Noviembre de 2019, 14:00 hs, IESTA.*
 
