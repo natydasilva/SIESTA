@@ -264,7 +264,6 @@ Charlas Invitadas
 
 *Martes 12 de Noviembre de 2019, 14:00 hs, IESTA.*
 
-+ [*CVuy*]()
 
 + [*Presentación*]() 
 
