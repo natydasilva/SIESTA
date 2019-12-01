@@ -265,7 +265,7 @@ Charlas Invitadas
 *Martes 12 de Noviembre de 2019, 14:00 hs, IESTA.*
 
 
-+ [*Presentación*]() 
++ [*Presentación*](https://github.com/natydasilva/SIESTA/blob/master/Presentaciones/11_12_19_Hector_Cotelo.pdf) 
 
 **30. Guillermina Costabel:Defensa final de grado: Análisis de supervivencia de las tablet del Plan Ceibal 2014-2015**
 
